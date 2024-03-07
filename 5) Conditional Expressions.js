@@ -21,3 +21,5 @@ else{
     console.log("You can drive")
 }
 
+
+console.log("You can", a<18? "not drive": "drive")
